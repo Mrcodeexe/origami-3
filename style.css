@@ -1,0 +1,28 @@
+h1{
+    color: #e3f411;
+}
+h3{
+    color: #cded14;
+}
+
+.title{
+    background-color: #abac12;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    font-size: 25px;
+}
+
+.crafts{
+    background-color: #ad72cb;
+    display: flex;
+    justify-content:   space-around;
+}
+
+.end{
+    background-color: #11aa21;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 15px;
+}
